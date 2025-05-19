@@ -11,7 +11,7 @@
   <ItemGroup>
     <PackageReference Include="Reveal.Sdk.AspNetCore" Version="1.7.3" />
     <PackageReference Include="Reveal.Sdk.Data" Version="1.7.3" />
-    <PackageReference Include="Reveal.Sdk.Data.PostgreSQL" Version="1.7.3" />
+    <PackageReference Include="Reveal.Sdk.Data.PostgreSQL" Version="1.7.4" />
     <PackageReference Include="Reveal.Sdk.Dom" Version="0.1.629-beta" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
   </ItemGroup>
