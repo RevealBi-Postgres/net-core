@@ -28,7 +28,7 @@ namespace RevealSdk.Server.Reveal
                 // for Postgres SQL, add a username, password and optional domain
                 // note these are just properties, you can set them from configuration, a key vault, a look up to 
                 // database, etc.  They are hardcoded here for demo purposes.
-                userCredential = new RVUsernamePasswordDataSourceCredential("jason", "jason");
+                userCredential = new RVUsernamePasswordDataSourceCredential("", "");
             }
             return Task.FromResult(userCredential);
         }
